@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/christian-mølholt-j-4406b812a/">Christian</a></h2>
 <p>I'm currently studying <strong>Machine Learning and Datascience</strong> at UCPH. In my free time I work on my startup Metriks and work on various side projects.</p>
-<p> <a href="https://www.linkedin.com/in/christian-mølholt-j-4406b812a/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp" alt="LinkedIn Badge"></a></p>
+<p> <a href="https://www.linkedin.com/in/christian-mølholt-j-4406b812a/"><img src="https://img.shields.io/badge/-@christianjensen2903-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp" alt="LinkedIn Badge"></a></p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
