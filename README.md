@@ -12,10 +12,10 @@
 <ul>
 <li>🐷 Pig Detection - Winning Solution DM in AI 22</li>
 <li>⭐️ Amazon Star Review Prediction - Winning Solution DM in AI 22</li>
-<li>💜 Meetr - A dating app</li>
-<li>🍻 Who - The drinking game</li>
-<li>💬 Question Answering with NLP</li>
-<li>💰 Savings app</li>
+<li>💜 <a href="https://github.com/christianjensen2903/Meetr">Meetr - A dating app</a></li>
+<li>🍻 <a href="https://github.com/christianjensen2903/Who">Who - The drinking game</a></li>
+<li>💬 <a href="https://github.com/christianjensen2903/QuestionAnswering">Question Answering with NLP</a></li>
+<li>💰 <a href="https://github.com/christianjensen2903/savings_app">Savings app</a></li>
 </ul>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
