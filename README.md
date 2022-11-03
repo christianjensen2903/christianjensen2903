@@ -10,8 +10,8 @@
 </ul>
 <h2>🤩 My favorite projects</h2>
 <ul>
-<li>🐷 Pig Detection Algorithm - Winning Solution - DM in AI 22</li>
-<li>⭐️ Amazon Star Review Prediction - Winning Solution - DM in AI 22</li>
+<li>🐷 Pig Detection - Winning Solution DM in AI 22</li>
+<li>⭐️ Amazon Star Review Prediction - Winning Solution DM in AI 22</li>
 <li>💜 Meetr - A dating app</li>
 <li>🍻 Who - The drinking game</li>
 <li>💬 Question Answering with NLP</li>
