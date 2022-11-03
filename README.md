@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/christian-mølholt-j-4406b812a/">Christian</a></h2>
 <p>I'm currently studying <strong>Machine Learning and Datascience</strong> at UCPH. In my free time I work on my startup Metriks and work on various side projects.</p>
-<p> <a href="https://www.linkedin.com/in/christian-mølholt-j-4406b812a/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/christian-mølholt-j-4406b812a/" alt="LinkedIn Badge"></a></p>
+<p> <a href="https://www.linkedin.com/in/christian-mølholt-j-4406b812a/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp" alt="LinkedIn Badge"></a></p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
@@ -8,7 +8,7 @@
 <li>🏆 Won the Danish Championship in AI for students 2022.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/christianjensen2903">Github</a>.</li>
 </ul>
-<h2>✒🤩 My favorite projects</h2>
+<h2>🤩 My favorite projects</h2>
 <ul>
 <li>🐷 Pig Detection Algorithm - Winning Solution - DM in AI 22</li>
 <li>⭐️ Amazon Star Review Prediction - Winning Solution - DM in AI 22</li>
@@ -28,8 +28,5 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" alt="Flutter" width="25" height="25" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/fsharp/fsharp-original.svg" alt="F#" width="25" height="25" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgresSQL" width="25" height="25" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" width="25" height="25" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" width="25" height="25" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" width="25" height="25" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" width="25" height="25" />
 </p>
