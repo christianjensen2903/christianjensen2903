@@ -24,7 +24,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift" width="25" height="25" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="25" height="25" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="25" height="25" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="25" height="25" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" alt="Flutter" width="25" height="25" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/fsharp/fsharp-original.svg" alt="F#" width="25" height="25" />
