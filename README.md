@@ -10,10 +10,13 @@
 <h2>🤩 My favorite projects</h2>
 <ul>
 <li>📊 Metriks - A customer data analytics platform</li>
-<li>🐷 <a href="https://github.com/christianjensen2903/Pig-Detection">Pig Detection - Winning Solution DM in AI 22</a></li>
-<li>⭐️ <a href="https://github.com/christianjensen2903/Amazon-Star-Prediction">Amazon Star Review Prediction - Winning Solution DM in AI 22</a></li>
 <li>💜 <a href="https://github.com/christianjensen2903/Meetr">Meetr - A dating app</a></li>
 <li>🍻 <a href="https://github.com/christianjensen2903/Who">Who - The drinking game</a></li>
+</ul>
+<h2>💻 Other projects</h2>
+<ul>
+<li>🐷 <a href="https://github.com/christianjensen2903/Pig-Detection">Pig Detection - Winning Solution DM in AI 22</a></li>
+<li>⭐️ <a href="https://github.com/christianjensen2903/Amazon-Star-Prediction">Amazon Star Review Prediction - Winning Solution DM in AI 22</a></li>
 <li>💬 <a href="https://github.com/christianjensen2903/QuestionAnswering">Question Answering with NLP</a></li>
 <li>💰 <a href="https://github.com/christianjensen2903/savings_app">Savings app</a></li>
 </ul>
