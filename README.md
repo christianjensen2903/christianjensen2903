@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/christian-mølholt-j-4406b812a/">Christian</a></h2>
-<p>I'm currently studying <strong>Machine Learning and Datascience</strong> at UCPH. In my free time I work on my startup Metriks and work on various side projects.</p>
+<p>I'm currently studying <strong>Machine Learning and Datascience</strong> at UCPH. In my free time I work on my startup Metriks and work on various side projects. Within machine learning my biggest interests lies within the fiels of reinforcement learning 🥕 and natural language processing 💬</p>
 <p> <a href="https://www.linkedin.com/in/christian-mølholt-j-4406b812a/"><img src="https://img.shields.io/badge/-@christianjensen2903-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp" alt="LinkedIn Badge"></a></p>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
