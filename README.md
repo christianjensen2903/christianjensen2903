@@ -19,7 +19,7 @@
 <ul>
 <li>🐷 <a href="https://github.com/christianjensen2903/Pig-Detection">Pig Detection - Winning Solution DM in AI 22</a></li>
 <li>⭐️ <a href="https://github.com/christianjensen2903/Amazon-Star-Prediction">Amazon Star Review Prediction - Winning Solution DM in AI 22</a></li>
-<li>💬 <a href="https://github.com/christianjensen2903/QuestionAnswering">Question Answering with NLP</a></li>
+<li>❓ <a href="https://github.com/christianjensen2903/QuestionAnswering">Question Answering with NLP</a></li>
 <li>💰 <a href="https://github.com/christianjensen2903/savings_app">Savings app</a></li>
 </ul>
 <h2>🚀 Some Tools I Use</h2>
