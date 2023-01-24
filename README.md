@@ -13,6 +13,7 @@
 <li>💜 <a href="https://github.com/christianjensen2903/Meetr">Meetr - A dating app</a></li>
 <li>🍻 <a href="https://github.com/christianjensen2903/Who">Who - The drinking game</a></li>
 <li>💬 <a href="https://github.com/christianjensen2903/ATNLP">Advanced Topics in NLP course project</a></li>
+<li>🚢 <a href="https://github.com/hojmax/RL-MPSP">Reinforcement Learning for the Multi-port Stowage Problem</a></li>
   
 </ul>
 <h2>💻 Other projects</h2>
