@@ -35,4 +35,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/fsharp/fsharp-original.svg" alt="F#" width="25" height="25" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgresSQL" width="25" height="25" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="Rust" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="Redis" width="25" height="25" />
 </p>
