@@ -4,7 +4,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🤖 I’m studying Machine Learning and Datascience.</li>
-<li>🏆 Won the Danish Championship in AI for students 2022.</li>
+<li>🏆 Won the Danish Championship in AI for students 2022 & 2023.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/christianjensen2903">Github</a>.</li>
 </ul>
 <h2>🤩 My favorite projects</h2>
