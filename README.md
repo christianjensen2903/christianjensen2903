@@ -17,6 +17,7 @@
   <li>💜 <a href="https://github.com/christianjensen2903/Meetr">Meetr - A dating app</a></li>
   <li>🍻 <a href="https://github.com/christianjensen2903/Who">Who - The drinking game</a></li>
   <li>🤖 <a href="https://github.com/christianjensen2903/GridQA">Advanced Topics in ML course project</a></li>
+  <li>🥕 <a href="https://github.com/christianjensen2903/MPSP">AlphaStowage: Multi-port Stowage Planning with Deep Reinforcement Learning</a></li>
   <li>🚢 <a href="https://github.com/hojmax/RL-MPSP">Reinforcement Learning for the Multi-port Stowage Problem</a></li>
 </ul>
 
