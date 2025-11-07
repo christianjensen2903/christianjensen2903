@@ -18,6 +18,7 @@
   <li>💬 <a href="https://github.com/christianjensen2903/ATNLP">Advanced Topics in NLP course project</a></li>
   <li>🔎 <a href="https://github.com/christianjensen2903/search-engines">Search Engines course project</a></li>
   <li>🎲 <a href="https://github.com/christianjensen2903/probabilistic-machine-learning">Probabilistic ML course project</a></li>
+  <li>🤖 <a href="https://github.com/christianjensen2903/GridQA">Advanced Topics in ML course project</a></li>
   <li>🚢 <a href="https://github.com/hojmax/RL-MPSP">Reinforcement Learning for the Multi-port Stowage Problem</a></li>
 </ul>
 
