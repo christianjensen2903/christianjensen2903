@@ -13,6 +13,7 @@
 <h2>🤩 My favorite projects</h2>
 <ul>
   <li>📊 Metriks - A customer data analytics platform</li>
+  <li>🐙 <a href="https://github.com/christianjensen2903/deepfeed-backend">DeepFeed - AI SoMe Manager</a></li>
   <li>💜 <a href="https://github.com/christianjensen2903/Meetr">Meetr - A dating app</a></li>
   <li>🍻 <a href="https://github.com/christianjensen2903/Who">Who - The drinking game</a></li>
   <li>🤖 <a href="https://github.com/christianjensen2903/GridQA">Advanced Topics in ML course project</a></li>
